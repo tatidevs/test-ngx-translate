@@ -1,0 +1,7 @@
+{
+  "demo": {
+    "text1": "Übersetzungs-Demo",
+    "text2": "﻿Dies ist eine einfache Applikation um die Funktionen von ngx-transalte zu demonstrieren.",
+    "textWithParam": "Hallo {{name}}!"
+  }
+}
